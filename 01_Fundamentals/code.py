@@ -1,0 +1,1 @@
+print("Hello world yogesh") # python3 01_Fundamentals/code.py
